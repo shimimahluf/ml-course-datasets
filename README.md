@@ -27,3 +27,10 @@ df = pd.read_csv(BASE + "penguins.csv")
 
 The files are the same versions used in the 2026 unit 3 training course (Ariel Bar Yitzhak), copied here
 so the course does not depend on other people's links. Licences and terms are those of the original sources.
+
+## Images
+
+| File | Credit |
+|---|---|
+| `images/lter_penguins.png` | The three penguin species — Artwork by @allison_horst (palmerpenguins) |
+| `images/culmen_depth.png` | Bill length and bill depth — Artwork by @allison_horst (palmerpenguins) |
